@@ -5,4 +5,13 @@ Cataloging various types of objects such as pulsars/exoplanets/QSOs etc, through
 
 In this project, we first learnt basics of ML and then applied it to one simple astronomical context of classifying the objects into stars/galaxies/QSOs based on their redshifts and magnitudes. We did 3 assignments in this project.
 
+## Details
+
+We did this project in three parts :
+
+**Part 1** : Linear and Logistic Regression \
+**Part 2** : Neural Networks \
+**Part 3** : Astronomy and Final Application using Decision Trees
+
+### Part 1
 
