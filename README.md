@@ -1,4 +1,4 @@
-# SoC-2022-Astro-ML
+# Astronomy : Machine Learning 
 This project deals with applications of Machine Learning techniques in the field of Astronomy and Astrophysics.
 
 Cataloging various types of objects such as pulsars/exoplanets/QSOs etc, through sky surveys, is very important in Astronomy. Now we have many telescopes/sky surveys that generate a huge amount of data everyday. After data processing, astronomers have to classify (or check if the data corresponds to the type of object we are looking for/trying to find) the objects. After the data processing and some analysis, astronomers are left with lakhs of candidates. People sitting and classifying each of them is infeasible and impossible. So we will have to train ML algorithms to do this for us. 
@@ -37,3 +37,5 @@ We were given readings on **Astronomy** and **decision trees**.
 
 We had one final assignment where we had a huge data set of redshifts, maginitudes in various bands (V,B,I etc). We had to classify the objects into Stars, Galaxies and QSOs using **decision trees and random forests** using **sklearn** : [Final Astronomy Application](https://github.com/AdarshR-M/SoC-2022-Astro-ML/blob/main/Astronomy%20Application/Classification_of_AstroObjects.ipynb).
 
+## The way ahead ...
+Till here we have learnt the basics of ML and applied it to a simple astronomical context. Astronomy has many more interesting senarios!! For example, trying to identify if a candidate star has a planet orbiting or trying to identify whether an object is a pulsar or FRB or neither, by analysing their light curves.
