@@ -13,5 +13,10 @@ We did this project in three parts :
 **Part 2** : Neural Networks \
 **Part 3** : Astronomy and Final Application using Decision Trees
 
-### Part 1
+### Part 1 
+This part was done for about 2-2.5 weeks : 21 April - 5 May.
 
+We read about linear and logistic regression. We also followed weeks 1,2 and 3 of lectures on ML by Andrew NG on coursera. Then we learnt how to implement these on python using sklearn and also from scratch.
+
+We were given 2 assignments for this part :
+1. <a href="">Visit W3Schools.com!</a>
